@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+div{
+    margin-top: 40px;
+    display: inline-block;
+    gap: 40px;
+    padding: 10px;
+
+}
+a{
+    text-decoration: none;
+    color:gray;
+}
+h3{
+    
+}
+img{
+    padding: 0px 40px;
+}
+
+  </style>
+  <body>
+      <center><image src="Top logo.png"></image></center>
+      <center><div><a href>Home</a></div>
+      <div><a href="">About</a></div>
+      <div><a href="">Products</a></div>
+      <div><a href="" id="1">Infrastrcture</a></div>
+      <div><a href="">Quality</a></div>
+      <div><a href="">Contact</a></div>
+      
+      </center>
+      <center><div><img src="Logo.png"></div>
+      </center>
+      <h3 id="1" style="color:blue;">INFRASTRUCTURE</h3>
+      <hr/>
+      <h3 style="color:blue;">INFRASTRUCTURE</h3>
+      <p style="margin-top: 0%"> Samsaro Exports has an excellent garment production unit which is well designed with ample workspace, adequate natural lighting and extensive ventilations. Samsaro Exports in-house garment production facility is well equipped with latest state of the art machinery in fabric cutting, fusing, sewing, finishing & packing, resulting in better quality & higher efficiency in productivity. Every style is time & method engineered to improve productivity & achieve delivery deadlines.</p>
+        </body>
+        <h3 style="color:blue;">KNITTING</h3>
+        <p style="margin-top: 0%"> The Samsaro Exports has Own Knitting machines, which is Mayor & Cie, Germany. It can produce around 2000 KGS of fabric per day. We can do all types of knitted fabrics as per our customer specification and style, which includes Single Jersey, Interlock, French Terry and all types of Ribs, Jackquard designs,Loop Knit, Fleece, Blended, Auto stripes.</p>
+        <div>
+            
+        </div>
+        
+          </body>
+          <h3 style="color:blue;">EMBROIDERY</h3>
+          <p style="margin-top: 0%">The highly advanced Tajima machine with 20 heads makes it easy for us to craft the finest embroidery designs.
+
+                The embroidery division is equipped with the latest machines from TAJIMA-(Japan Make).These automated embroidery machines elegantly handle any design with Punching ,Designing & Applique Cutting.</p>
+            <h3 style="color:blue">GARMENTING</h3>
+            <p>The garments are manufactured in most sophisticated machines using the latest state of the art technology in our INHOUSED PRODUCTION UNIT. Our wide range of machineries include JUKI, BROTHER, PEGASUS. Our Production is the key for success which keeps us growing in this competitive industry. Our production unit is supported by 100 sewing machines.</p>
+        <div>
+                <image src="3.jpg" width=50% height=35%></image>
+                <image src="4.jpg" width=50% height=35%></image>
+        </div>    
+        <h3 style="color:blue">PACKING</h3>
+        <p>They are packed neatly in the designated packs and placed inside the carton or hanger racks for dispatch.</p>
+    <hr/>    
+    </body>
+   
+    </head>
+</html>
